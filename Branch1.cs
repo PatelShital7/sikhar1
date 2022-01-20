@@ -4,6 +4,9 @@ public class Class1
 {
 	public Branch()
 	{
-		int a;int b;int sum = a + b;
+		var a;
+		var b;
+		var sum = a + b;
+		return sum;
 	}
 }
